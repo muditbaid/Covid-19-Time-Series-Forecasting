@@ -33,7 +33,6 @@ python covid_time_series.py
 ## 📂 Repository Structure
 ```
 .
-├── data/                 # Contains downloaded COVID-19 datasets (optional)
 ├── src/                  # Core scripts
 │   ├── data_loader.py    # Loads and preprocesses COVID-19 data
 │   ├── visualization.py  # Generates time series plots
