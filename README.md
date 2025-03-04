@@ -13,8 +13,8 @@ This repository provides a **time series analysis and forecasting** pipeline for
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<USERNAME>/covid-time-series-forecasting.git
-cd covid-time-series-forecasting
+git clone https://github.com/muditbaid/Covid-19-Time-Series-Forecasting.git
+cd Covid-19-Time-Series-Forecasting
 ```
 
 ### 2️⃣ Install Dependencies
